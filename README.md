@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">Backend Developer | AI/ML | Automation</h3>
+<p align="center">
+  I build backend systems, APIs, and AI-powered applications that solve practical problems.
+</p>
 
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student focused on backend engineering and software development.
+- ⚙️ Interested in building reliable APIs, backend services, integrations, and automation workflows.
+- 🤖 Exploring applied AI/ML, LLM applications, RAG, and AI agents.
+- 🧠 I enjoy understanding how systems work under the hood, from architecture and data flow to deployment and debugging.
+- 🚀 Interested in collaborating with early-stage startups and building products that solve real problems.
+- 🌱 Continuously improving my software engineering fundamentals and learning by building real-world projects.
+
+### 🛠️ Areas of Interest
+
+- Backend Engineering & API Development
+- AI/LLM Applications & Agentic Systems
+- Workflow Automation & System Integration
+- Databases, Deployment & Infrastructure
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vincent-paul-bacalso-7b8291275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-paul-bacalso-7b8291275" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vincent-paul-bacalso-7b8291275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-paul-bacalso-7b8291275" height="30" width="40" /></a>
